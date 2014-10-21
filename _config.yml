@@ -9,3 +9,5 @@ url: "/cwberkeley.github.io"
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title
+
+cover: banner.jpg
